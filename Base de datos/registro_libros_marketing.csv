@@ -1,0 +1,101 @@
+﻿ID,Título,Categoría,Precio Unitario,Precio Promocional,Cantidad de ventas,Editorial
+1,La Llama del Destino,Fantasía,45,28,10,Castillo de Camelot
+2,El Enigma de las Estrellas,Fantasía,60,35,23,Alejandría
+3,El Secreto del Bosque Encantado,Fantasía,55,32,8,Alejandría
+4,La Travesía del Héroe Perdido,Fantasía,50,30,9,Alejandría
+5,La Caída de la Ciudad Prohibida,Fantasía,40,25,9,Castillo de Camelot
+6,La Profecía del Tiempo,Fantasía,60,35,11,Castillo de Camelot
+7,El Misterio de la Piedra Sagrada,Fantasía,45,28,13,Ancianos
+8,En Busca de la Fuente de la Juventud,Fantasía,55,32,10,Alejandría
+9,El Legado de los Antiguos,Fantasía,70,40,12,Hogwarts
+10,El Enigma del Laberinto Misterioso,Misterio y Suspenso,45,28,6,Alejandría
+11,La Llave del Reino Olvidado,Misterio y Suspenso,60,35,11,Alejandría
+12,La Travesía del Alma Divina,Misterio y Suspenso,55,32,10,Hogwarts
+13,El Secreto del Portal Dimensional,Misterio y Suspenso,50,30,7,Alejandría
+14,La Caída del Imperio Celestial,Misterio y Suspenso,40,25,10,Alejandría
+15,La Profecía del Destino,Misterio y Suspenso,60,35,14,Castillo de Camelot
+16,El Misterio del Collar Encantado,Misterio y Suspenso,45,28,10,Hogwarts
+17,En Busca de la Reliquia Perdida,Misterio y Suspenso,55,32,13,Alejandría
+18,El Legado de las Sombras Ocultas,Misterio y Suspenso,70,40,9,Hogwarts
+19,El Enigma del Templo Perdido,Épico y Aventura,45,28,13,Castillo de Camelot
+20,La Llave para el Mundo Desconocido,Épico y Aventura,60,35,10,Alejandría
+21,La Travesía del Héroe Intrépido,Épico y Aventura,55,32,8,Castillo de Camelot
+22,El Secreto del Artefacto Mágico,Épico y Aventura,50,30,9,Castillo de Camelot
+23,La Caída del Reino Dorado,Épico y Aventura,40,25,12,Alejandría
+24,La Profecía del Destino Eterno,Épico y Aventura,60,35,8,Alejandría
+25,El Misterio del Libro Prohibido,Épico y Aventura,45,28,9,Pueblo del Libro
+26,En Busca del Tesoro Perdido,Épico y Aventura,55,32,5,Alejandría
+27,El Legado de los Misterios Antiguos,Épico y Aventura,70,40,5,Alejandría
+28,El Enigma del Valle Encantado,Épico y Aventura,45,28,10,Alejandría
+29,La Llave para la Dimensión Paralela,Mitología y Fantasía,60,35,11,Castillo de Camelot
+30,La Travesía del Guerrero Solitario,Mitología y Fantasía,55,32,9,Castillo de Camelot
+31,El Secreto de la Montaña Sagrada,Mitología y Fantasía,50,30,9,Castillo de Camelot
+32,La Caída del Imperio Oscuro,Mitología y Fantasía,40,25,7,Castillo de Camelot
+33,La Profecía del Destino Infinito,Mitología y Fantasía,60,35,7,Hogwarts
+34,El Misterio de la Ciudad Fantasma,Mitología y Fantasía,45,28,8,Pueblo del Libro
+35,En Busca del Objeto Encantado,Mitología y Fantasía,55,32,10,Hogwarts
+36,El Legado de las Criaturas Mitológicas,Mitología y Fantasía,70,40,11,Hogwarts
+37,El Enigma del Castillo Hechizado,Épico y Aventura,45,28,10,Castillo de Camelot
+38,La Llave para el Portal Secreto,Épico y Aventura,60,35,4,Castillo de Camelot
+39,La Travesía del Héroe Desconocido,Épico y Aventura,55,32,8,Ancianos
+40,El Secreto de la Joya Eterna,Épico y Aventura,50,30,13,Hogwarts
+41,La Caída del Imperio Oscuro,Épico y Aventura,40,25,6,Castillo de Camelot
+42,La Profecía del Destino Supremo,Épico y Aventura,65,38,3,Alejandría
+43,El Misterio del Amuleto Encantado,Épico y Aventura,50,30,9,Alejandría
+44,En Busca del Arma Divina,Épico y Aventura,55,32,12,Alejandría
+45,El Legado de los Guardianes de la Magia,Épico y Aventura,75,42,4,Alejandría
+46,El Enigma del Valle de las Sombras,Épico y Aventura,45,28,8,Alejandría
+47,La Llave para el Mundo de los Sueños,Mitología y Fantasía,60,35,11,Alejandría
+48,La Travesía del Héroe Inmortal,Mitología y Fantasía,55,32,4,Alejandría
+49,El Secreto de la Tierra Prohibida,Mitología y Fantasía,50,30,9,Castillo de Camelot
+50,La Caída del Reino de las Tinieblas,Mitología y Fantasía,40,25,7,Hogwarts
+51,La Profecía del Destino Eterno,Mitología y Fantasía,60,35,12,Hogwarts
+52,El Misterio de la Ciudad Perdida,Mitología y Fantasía,45,28,9,Alejandría
+53,En Busca del Pergamino Ancestral,Mitología y Fantasía,55,32,9,Alejandría
+54,El Legado de los Misterios Sobrenaturales,Mitología y Fantasía,70,40,9,Ancianos
+55,El Enigma de la Torre Encantada,Épico y Aventura,45,28,17,Castillo de Camelot
+56,La Llave para el Portal Dimensional,Épico y Aventura,60,35,13,Castillo de Camelot
+57,La Travesía del Héroe Olvidado,Épico y Aventura,55,32,9,Alejandría
+58,El Secreto del Cristal Místico,Épico y Aventura,50,30,12,Castillo de Camelot
+59,La Caída del Imperio Mágico,Épico y Aventura,40,25,13,Alejandría
+60,La Profecía del Destino Desconocido,Épico y Aventura,65,38,11,Hogwarts
+61,El Misterio de la Mansión Embrujada,Épico y Aventura,50,30,13,Pueblo del Libro
+62,En Busca de la Reliquia Sagrada,Épico y Aventura,55,32,12,Castillo de Camelot
+63,El Legado de las Sombras Eternas,Épico y Aventura,75,42,10,Hogwarts
+64,El Enigma del Templo Olvidado,Épico y Aventura,45,28,10,Castillo de Camelot
+65,La Llave para el Reino de los Espíritus,Mitología y Fantasía,60,35,14,Castillo de Camelot
+66,La Travesía del Héroe Perdido en el Tiempo,Mitología y Fantasía,55,32,7,Castillo de Camelot
+67,El Secreto del Artefacto Sagrado,Mitología y Fantasía,50,30,11,Alejandría
+68,La Caída del Imperio de las Tinieblas,Mitología y Fantasía,40,25,12,Alejandría
+69,La Profecía del Destino Interdimensional,Mitología y Fantasía,60,35,13,Alejandría
+70,El Misterio de la Isla Misteriosa,Mitología y Fantasía,45,28,7,Alejandría
+71,En Busca de la Esencia de la Vida,Mitología y Fantasía,55,32,8,Alejandría
+72,El Legado de los Seres Fantásticos,Mitología y Fantasía,70,40,7,Ancianos
+73,El Enigma del Castillo Maldito,Épico y Aventura,45,28,14,Ancianos
+74,La Llave para el Portal Encantado,Épico y Aventura,60,35,6,Alejandría
+75,La Travesía del Héroe Inmortal,Épico y Aventura,55,32,7,Castillo de Camelot
+76,El Secreto de la Reliquia Olvidada,Épico y Aventura,50,30,17,Hogwarts
+77,La Caída del Reino de las Sombras,Épico y Aventura,40,25,7,Ancianos
+78,La Profecía del Destino Eterno,Épico y Aventura,65,38,10,Hogwarts
+79,El Misterio del Bosque Encantado,Épico y Aventura,50,30,8,Alejandría
+80,En Busca del Tesoro Sagrado,Épico y Aventura,55,32,13,Alejandría
+81,El Legado de los Misterios Prohibidos,Épico y Aventura,75,42,8,Hogwarts
+82,El Enigma del Laberinto Subterráneo,Épico y Aventura,45,28,15,Alejandría
+83,La Llave para el Mundo Paralelo,Mitología y Fantasía,60,35,10,Hogwarts
+84,La Travesía del Héroe Desconocido,Mitología y Fantasía,55,32,11,Ancianos
+85,El Secreto del Poder Divino,Mitología y Fantasía,50,30,19,Hogwarts
+86,La Caída del Imperio Hechizado,Mitología y Fantasía,40,25,20,Alejandría
+87,La Profecía del Destino Supremo,Mitología y Fantasía,60,35,10,Pueblo del Libro
+88,El Misterio de la Caverna Oscura,Mitología y Fantasía,45,28,9,Hogwarts
+89,En Busca de la Reliquia Encantada,Mitología y Fantasía,55,32,9,Alejandría
+90,El Legado de las Criaturas Místicas,Mitología y Fantasía,70,40,10,Alejandría
+91,El Enigma del Castillo Misterioso,Épico y Aventura,45,28,9,Alejandría
+92,La Llave para el Portal Encantado,Épico y Aventura,60,35,5,Castillo de Camelot
+93,La Travesía del Héroe Eterno,Épico y Aventura,55,32,12,Castillo de Camelot
+94,El Secreto del Talismán Antiguo,Épico y Aventura,50,30,11,Hogwarts
+95,La Caída del Imperio de las Pesadillas,Épico y Aventura,40,25,15,Alejandría
+96,La Profecía del Destino Infinito,Épico y Aventura,65,38,7,Hogwarts
+97,El Misterio de la Casa Embrujada,Épico y Aventura,50,30,10,Pueblo del Libro
+98,En Busca del Artefacto Perdido,Épico y Aventura,55,32,5,Hogwarts
+99,El Legado de las Sombras Misteriosas,Épico y Aventura,75,42,12,Pueblo del Libro
+100,El Enigma del Templo Ancestral,Épico y Aventura,45,28,9,Ancianos
